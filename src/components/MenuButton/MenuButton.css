@@ -1,0 +1,11 @@
+.menu-button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    margin-left: 70px;
+}
+
+.menu-image{
+    height: 30px;
+    width: 27px;
+}
